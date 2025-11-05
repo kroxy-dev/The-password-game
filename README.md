@@ -23,27 +23,27 @@ python main.py
 - Complete all 21 rules to win and earn your 🍪.
 
 📜 Rules List
-0- Password must not be empty.
-1- Must contain a number.
-2- Must contain an uppercase letter.
-3- Must contain a symbol (!@#$%^&*).
-4- Must include today’s date in the format YYYY-MM-DD.
-5- Must contain a Roman numeral.
-6- Number of digits must be even.
-7- Must include a European country name.
-8- Must contain today’s Wordle answer (requires internet).
-9- Number of lowercase letters must equal the number of uppercase letters.
-10- Must contain the current hour and minute in the format HH-MM.
-11- Must include the year 2014 (when Brazil hosted the FIFA World Cup).
-12- An egg 🥚 appears — keep it safe!
-13- The sum of digits at odd positions must be divisible by 4.
-14- Must contain the name kroxy (the creator).
-15- The sum of all digits must be divisible by 3.
-16- The egg hatches — say hi to Booger 🐥.
-17- Feed Booger exactly one "worm" each attempt.
-18- Password must contain "strong".
-19- Password must contain a 3-letter palindrome substring.
-20- Final Rule: Retype your entire password perfectly.
+- 0- Password must not be empty.
+- 1- Must contain a number.
+- 2- Must contain an uppercase letter.
+- 3- Must contain a symbol (!@#$%^&*).
+- 4- Must include today’s date in the format YYYY-MM-DD.
+- 5- Must contain a Roman numeral.
+- 6- Number of digits must be even.
+- 7- Must include a European country name.
+- 8- Must contain today’s Wordle answer (requires internet).
+- 9- Number of lowercase letters must equal the number of uppercase letters.
+- 10- Must contain the current hour and minute in the format HH-MM.
+- 11- Must include the year 2014 (when Brazil hosted the FIFA World Cup).
+- 12- An egg 🥚 appears — keep it safe!
+- 13- The sum of digits at odd positions must be divisible by 4.
+- 14- Must contain the name kroxy (the creator).
+- 15- The sum of all digits must be divisible by 3.
+- 16- The egg hatches — say hi to Booger 🐥.
+- 17- Feed Booger exactly one "worm" each attempt.
+- 18- Password must contain "strong".
+- 19- Password must contain a 3-letter palindrome substring.
+- 20- Final Rule: Retype your entire password perfectly.
 
 🧠 Credits
 Made with frustration, caffeine, and pure curiosity by kroxy.
